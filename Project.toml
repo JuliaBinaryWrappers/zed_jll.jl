@@ -1,6 +1,6 @@
 name = "zed_jll"
 uuid = "a2fbc99b-683d-5036-9e5b-937a48409984"
-version = "1.15.0+0"
+version = "1.15.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

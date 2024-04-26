@@ -5,7 +5,7 @@ os = "macos"
 
     [[zed.download]]
     sha256 = "4277d190f4b200212a170cca4403a63af4fd1cba49dcec2ea61236f1c803d6c8"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.aarch64-apple-darwin.tar.gz"
 [[zed]]
 arch = "aarch64"
 git-tree-sha1 = "c7de2c3cd0c0f8c49c20fd65555060d44b43aeed"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[zed.download]]
     sha256 = "49407226bad1f0624021ac2daa671bb6bc05e6ade4176b668c6b0db14ae5ff98"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.aarch64-linux-gnu.tar.gz"
 [[zed]]
 arch = "aarch64"
 git-tree-sha1 = "c7de2c3cd0c0f8c49c20fd65555060d44b43aeed"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[zed.download]]
     sha256 = "49407226bad1f0624021ac2daa671bb6bc05e6ade4176b668c6b0db14ae5ff98"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.aarch64-linux-musl.tar.gz"
 [[zed]]
 arch = "powerpc64le"
 git-tree-sha1 = "96625a9b3fdf874b1a757f454418a85d22fbfd60"
@@ -32,7 +32,7 @@ os = "linux"
 
     [[zed.download]]
     sha256 = "3546218cc672da4e7766ee04d8ff321a45191d9b40d2ecf8f011a5ecaba08746"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.powerpc64le-linux-gnu.tar.gz"
 [[zed]]
 arch = "x86_64"
 git-tree-sha1 = "bbe730a6d0a05310472b5f75ab62ebd82af0e707"
@@ -40,7 +40,7 @@ os = "macos"
 
     [[zed.download]]
     sha256 = "252f296dc820ea619c439ba54cee8e723fab4e10a40bbf2b69c1ac1cd9c46079"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.x86_64-apple-darwin.tar.gz"
 [[zed]]
 arch = "x86_64"
 git-tree-sha1 = "2bcff59cfdfd9ac8eadcba6f06ee93239e6afd57"
@@ -49,7 +49,7 @@ os = "linux"
 
     [[zed.download]]
     sha256 = "0990a10565c1cf6c03d8095781c27ee93e600e029d09c6dc0abf36b9753cc1c6"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.x86_64-linux-gnu.tar.gz"
 [[zed]]
 arch = "x86_64"
 git-tree-sha1 = "f34981f73cec749940c79d4bd0afa7b02502cc01"
@@ -58,7 +58,7 @@ os = "linux"
 
     [[zed.download]]
     sha256 = "a35c19bbc292de8186826ffa8b5c458240fc57d519b94d8708a019f3fc4867d8"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.x86_64-linux-musl.tar.gz"
 [[zed]]
 arch = "x86_64"
 git-tree-sha1 = "bbacaf4a1c31c3209703b7fa713c738952749af4"
@@ -66,7 +66,7 @@ os = "freebsd"
 
     [[zed.download]]
     sha256 = "179514356dfe82e96e11dcb1335d441e7c9b080dfb931f083aafc81c21c0e975"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.x86_64-unknown-freebsd.tar.gz"
 [[zed]]
 arch = "x86_64"
 git-tree-sha1 = "dbce84b4ebd27246ca755a8942dea7bce30bb944"
@@ -74,4 +74,4 @@ os = "windows"
 
     [[zed.download]]
     sha256 = "4ec6e38d8ed4e039727b4560bddb5f1b748f9fa4d1ebcb9b3430e1ea6b699388"
-    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+0/zed.v1.15.0.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zed_jll.jl/releases/download/zed-v1.15.0+1/zed.v1.15.0.x86_64-w64-mingw32.tar.gz"
